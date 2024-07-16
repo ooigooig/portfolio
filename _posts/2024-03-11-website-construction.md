@@ -8,7 +8,7 @@ categories: website
 tabs: true
 ---
 
-
+1
 Just built it, record it so I don't forget it this time next year.
 
 Server: AWS (free for one year, build a new one in the second year, free for another year, and so on)
