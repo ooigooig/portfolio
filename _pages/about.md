@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: hz.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>huayezhan@protonmail.com</p>
+    <p>Toronto,Canada</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently looking for an Data Engineer position, starting around 2025 Spring/Summer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a student studying in [AI-Software Engineer Technology](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College. I mainly focus on Data Analysis and Web App. Specifically, my current interests lie in these fields: Data Engineer and Web developer.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my Bachelor's degree in Robotics Engineering and Automation at the [Guangdong University of Technology](https://english.gdut.edu.cn/) between 2015 and 2019, supervised by Dr. [Juan Rojas](http://www.juanrojas.net/). During my Bachelor's period, I did my Bachelor's thesis on Human Pose Estimation Based on Deep Learning.
+
+After graduating, I worked at [ZMROBO](https://www.zmrobo.com/) as a [ROS](https://www.ros.org/) software engineer, designing multiple sets of robots and developing courses for schools based on the company's robotic products.
+
+In my free time, I enjoy playing frisbee, reading, listening to Rap and Rock music and exploring new things.
