@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-06-04 07:59:00-0400
 inline: true
-related_posts: false
 ---
-
-A simple inline announcement.
+<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
+Published the graduation thesis 'Human Pose Estimation Based on Deep Learning'.
