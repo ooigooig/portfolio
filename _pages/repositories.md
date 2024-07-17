@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: My codes are released in the following repos.
-nav: true
+nav: false
 nav_order: 3
 ---
 
