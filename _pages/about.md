@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently looking for an Data Engineer/Machine Learning Engineer position, starting around 2025 Spring/Summer.
+I am currently looking for an Data Engineer/Machine Learning Engineer position in GTA, starting around 2025 Spring/Summer.
 
 I am a student studying in [AI-Software Engineer Technology](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College. I mainly focus on Big Data and Machine learning. Specifically, my current interests lie in these fields: Data Engineer and Machine Learning Engineer.
 
