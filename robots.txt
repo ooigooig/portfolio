@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://huayezhan.github.io/sitemap.xml
+Sitemap: https://howardzhan2024.top//sitemap.xml
