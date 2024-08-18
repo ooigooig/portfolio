@@ -1,11 +1,10 @@
 ---
 layout: page
 title: KSI-Related Collisions in Toronto:A predictive model with an app
-
 description: 
 img: assets/img/ksi_toronto/ksi_homepage.png
 importance: 3
-category: data science
+category: study
 giscus_comments: true
 ---
     ---
