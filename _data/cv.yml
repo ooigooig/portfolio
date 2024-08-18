@@ -7,13 +7,15 @@
       value: 15th August 1997
     - name: Languages
       value: English, Hakka (native), Mandarin (native), Teochew(native), Cantonese
+    - name: Email
+      value: huayezhan@protonmail.com
 
 - title: Education
   type: time_table
   contents:
     - title: Artificial Intelligence - Software Engineer Technology (Fast-track)
       institution: Centennial College, Toronto, Canada
-      year: 2024 - present
+      year: 2024 - 2025
       description:
         - "Web development and AI-Software engineer"
       # description:
