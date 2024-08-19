@@ -20,7 +20,8 @@ How we do: We designed a system based on the Presto card, including an assault d
     5.Knowledge of Git/GitHub
     ---
 
-passenger app: If passengers want to immediately retrieve their lost items, they can use this web app to get in contact with drivers.
+# passenger app
+If passengers want to immediately retrieve their lost items, they can use this web app to get in contact with drivers.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ttc-hackathon/ttchomepage.png" title="example image" class="img-fluid rounded z-depth-1" %}
