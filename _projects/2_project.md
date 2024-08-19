@@ -8,15 +8,17 @@ category: study
 giscus_comments: true
 ---
 As a blogger, it is especially important to have our own website. We only need to purchase a domain name, and with a free hosting service, we can enjoy it for a year. 
+
     ---
-    What we need to do:
-    1.Familiar with MERN(MongoDB,Express,React,Node.js)
-    2.Familiar with Bootstrap.（design an passenger app and driver app）
-    3.Familiar with Web API.
-    4.Investigate with some passengers and TTC drivers.
-    5.Knowledge of Git/GitHub
+    What we need:
+    1.AWS
+    2.Domain
+    3.Wordpress
+    4.bt panel
     ---
 
+
+## 1.AWS
 
 
 passenger app: If passengers want to immediately retrieve their lost items, they can use this web app to get in contact with drivers.
