@@ -20,6 +20,17 @@ As a blogger, it is especially important to have our own website. We only need t
 
 ## 1.AWS
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/aws-based_website/login1.jpg" title="login1 image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/aws-based_website/login2.jpg" title="login2 image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    we can regiser and login aws account freely.
+
 
 passenger app: If passengers want to immediately retrieve their lost items, they can use this web app to get in contact with drivers.
 <div class="row">
