@@ -16,6 +16,9 @@ giscus_comments: true
     5.Knowledge of Git/GitHub
     ---
 
+What we do: My team of six participated in a TTC hackathon, where the main task was to design a system and solution to address driver assaults and enhance the TTC user experience. During the competition, we interviewed TTC bus drivers about issues related to assaults in order to develop a solution for driver safety. For the user experience design, since I lost my laptop on a TTC bus a week before the event and discovered that TTC lacked an official lost-and-found process, we decided to address this problem.
+
+How we do: 
 
 passenger app: If passengers want to immediately retrieve their lost items, they can use this web app to get in contact with drivers.
 <div class="row">
