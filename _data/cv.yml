@@ -9,7 +9,8 @@
       value: English, Hakka (native), Mandarin (native), Teochew(native), Cantonese
     - name: Email
       value: huayezhan@protonmail.com
-
+    - name: Location
+      value: GTA(Greater Toronto Area), Canada
 - title: Education
   type: time_table
   contents:
