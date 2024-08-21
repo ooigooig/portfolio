@@ -62,6 +62,8 @@ If passengers want to immediately retrieve their lost items, they can use this w
     Sign up page, passenger should sign up the same email as presto card email, so that the information in presto will upload in the app automatically.
 </div>
 
-driver system: This system is the one next to the driver's seat. He can use this brand new system to prevent passengers from assaulting him.
+# driver system
+
+This system is the one next to the driver's seat. He can use this brand new system to prevent passengers from assaulting him.
 
 continuing...
