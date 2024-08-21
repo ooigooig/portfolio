@@ -11,6 +11,8 @@
       value: huayezhan@protonmail.com
     - name: Location
       value: GTA(Greater Toronto Area), Canada
+    - name: Label
+      value: Data Engineer | ML Engineer | ROS Software Engineer
 - title: Education
   type: time_table
   contents:
@@ -45,3 +47,6 @@
         - "Data analysis on business marketing of educational robots"
 
 - title: Skills
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
