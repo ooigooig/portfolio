@@ -3,7 +3,7 @@ layout: page
 title: Exploring the Relationship Between Environmental Quality and Housing prices in Canada:An ETL study in data science
 description: to solve the problem of assaulting operators and user experience.
 img: assets/img/ETL_database/homepage.png
-importance: 1
+importance: 5
 
 giscus_comments: true
 ---

@@ -1,16 +1,15 @@
 ---
 layout: page
-title: ROS
-description: ROS
+title: ROS-based competition car:A solution for competition of university/college students
+description: For an educational robotics company, we need to develop a ROS-based competition robot to meet the needs of existing university/college courses.
 img: assets/img/ros/homepage.png
-importance: 1
+importance: 7
 
 giscus_comments: true
 ---
-**What I do**: When I first joined the company, a new project was initiated based on a ROS competition car. My work involved debugging the integration of hardware and software for the car, as well as writing tutorials for the ROS-based car.
-
+**What I do**: When I first joined ZMROBO, a new project was initiated based on a ROS competition car. My work involved debugging the integration of hardware and software for the car, as well as writing tutorials for the ROS-based car. 
     ---
-    I can list some features of the ROS car:
+    The main functions:
     Advanced Development of ROS Robot System
     3D Mapping and Navigation
     Mecanum Wheel Omni-Directional Movement
