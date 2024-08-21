@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Azure Data Factory:Building Data Ingestion
+description: nothing
+img: assets/img/azure/homepage.jpg
 importance: 1
 category: work
 related_publications: true

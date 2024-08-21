@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Howard Zhan(詹华烨)
+    - name: Label
+      value: Data Engineer | ML Engineer | ROS Software Engineer
     - name: Date of Birth
       value: 15th August 1997
     - name: Languages
@@ -11,8 +13,7 @@
       value: huayezhan@protonmail.com
     - name: Location
       value: GTA(Greater Toronto Area), Canada
-    - name: Label
-      value: Data Engineer | ML Engineer | ROS Software Engineer
+
 - title: Education
   type: time_table
   contents:
