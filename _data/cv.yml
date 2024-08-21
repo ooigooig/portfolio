@@ -49,11 +49,12 @@
 - title: Skills
   type: list
   contents:
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
-    - <u>SQL:</u> MySQL, Post etc.
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
-    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python</u> Numpy, Pandas, Scikit-learn.
+    - <u>SQL</u> MySQL, Postgres.
+    - <u>Machine Learning:</u> Supervised Learning, Unsupervised Learning.
+    - <u>Cloud</u> AWS, Asure.
+    - <u>NLP</u>
+    - <u>Times Series Forecasting</u>
+    - <u>Tableau</u>
+    - <u>Power BI</u>
+    - <u>Hadoop</u>
