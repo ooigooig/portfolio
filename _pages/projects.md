@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some projects are recorded in this list
 nav: true
 nav_order: 1
-display_categories: [study, work, fun]
+display_categories:
 horizontal: false
 ---
 

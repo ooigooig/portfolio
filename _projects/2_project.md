@@ -4,7 +4,7 @@ title: AWS-based Website Building in Wordpress structure
 description: we can build a free website by free Elastic Compute Cloud (EC2).
 img: assets/img/aws-based_website/aws-wordpress.jpg
 importance: 2
-category: study 
+ 
 giscus_comments: true
 ---
 As a blogger, it is especially important to have our own website. We only need to purchase a domain name, and with a free hosting service, we can enjoy it for a year. 

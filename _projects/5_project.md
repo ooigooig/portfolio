@@ -4,7 +4,7 @@ title: Exploring the Relationship Between Environmental Quality and Housing pric
 description: to solve the problem of assaulting operators and user experience.
 img: assets/img/ETL_database/homepage.png
 importance: 1
-category: study 
+
 giscus_comments: true
 ---
 What we do: My team of six participated in a TTC hackathon, where the main task was to design a system and solution to address driver assaults and enhance the TTC user experience. During the competition, we interviewed TTC bus drivers about issues related to assaults in order to develop a solution for driver safety. For the user experience design, since I lost my laptop on a TTC bus a week before the event and discovered that TTC lacked an official lost-and-found process, we decided to address this problem.

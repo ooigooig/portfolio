@@ -13,7 +13,6 @@
       value: huayezhan@protonmail.com
     - name: Location
       value: GTA(Greater Toronto Area), Canada
-
 - title: Education
   type: time_table
   contents:
@@ -50,4 +49,11 @@
 - title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>SQL:</u> MySQL, Post etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.
+    - <u>Python:</u> Hobby 1, Hobby 2, etc.

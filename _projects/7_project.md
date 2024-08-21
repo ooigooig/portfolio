@@ -4,7 +4,7 @@ title: Azure Data Factory:Building Data Ingestion
 description: nothing
 img: assets/img/azure/homepage.jpg
 importance: 1
-category: work
+
 related_publications: true
 ---
 

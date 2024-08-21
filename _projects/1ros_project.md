@@ -4,7 +4,7 @@ title: ROS
 description: ROS
 img: assets/img/ros/homepage.png
 importance: 1
-category: study 
+
 giscus_comments: true
 ---
 **What I do**: When I first joined the company, a new project was initiated based on a ROS competition car. My work involved debugging the integration of hardware and software for the car, as well as writing tutorials for the ROS-based car.
