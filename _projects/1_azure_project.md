@@ -4,8 +4,8 @@ title: Azure Data Factory:Building Data Ingestion
 description: nothing
 img: assets/img/azure/homepage.jpg
 importance: 1
+giscus_comments: true
 
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
