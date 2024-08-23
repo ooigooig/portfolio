@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name:  # blog_name will be displayed in your blog page
-blog_description: Writing down what I thought in my daily work.
+blog_description: Writing as a Lifestyle
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
