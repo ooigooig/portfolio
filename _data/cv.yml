@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Howard Zhan(詹华烨)
+      value: Huaye Zhan
     - name: Label
       value: Data Engineer | ML Engineer | ROS Software Engineer
     - name: Date of Birth
@@ -47,7 +47,20 @@
         - "Data analysis on business marketing of educational robots"
 
 - title: Skills
-  type: list
+  type: nested_list
+  contents:
+    - <u>Python</u> Numpy, Pandas, Scikit-learn.
+    - <u>SQL</u> MySQL, Postgres.
+    - <u>Machine Learning:</u> Supervised Learning, Unsupervised Learning.
+    - <u>Cloud</u> AWS, Asure.
+    - <u>NLP</u>
+    - <u>Times Series Forecasting</u>
+    - <u>Tableau</u>
+    - <u>Power BI</u>
+    - <u>Hadoop</u>
+
+- title: Skills
+  type: list-groups
   contents:
     - <u>Python</u> Numpy, Pandas, Scikit-learn.
     - <u>SQL</u> MySQL, Postgres.
