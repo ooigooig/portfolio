@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Life:The first time in my life riding in a police car in Canada
 date: 2024-04-10 00:32:13
@@ -29,4 +29,4 @@ When self-defense is necessary, violence is an option, but I know it must not be
 
 After returning from the police car, I told Sam about the incident. He asked if I wanted to grab dinner, and he treated me to Swiss Chalet. We talked about a lot of things, various topics, and he comforted me about what happened today. I like Canada because of people like Sam. I dislike Canada because of people like that scammer.
 
-2024-04-10
+2024-04-10 -->
