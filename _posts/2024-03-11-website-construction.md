@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Annual website construction
 date: 2024-03-11 00:32:13
@@ -34,4 +34,4 @@ mistake:
 
 [404 not found nginx](https://www.bt.cn/bbs/thread-34630-1-1.html)
 
-I forgot my wordpress password. I changed it in the database: https://zhuanlan.zhihu.com/p/633677575
+I forgot my wordpress password. I changed it in the database: https://zhuanlan.zhihu.com/p/633677575 -->
