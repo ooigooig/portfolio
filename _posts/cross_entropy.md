@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why cross entropy comes in hand with Softmax layer?
-date: 2024-06-16 16:40:16
+date: 2024-08-23 16:40:16
 description: 
 tags: Q&A
 categories: neural networks
