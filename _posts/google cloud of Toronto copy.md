@@ -10,4 +10,4 @@ categories: neural networks
 
 **<mark><u>Why we need to use softmax function after cross entropy?</u></mark>**
 
-Because thecross entropy loss takes the logatithm of the probability. So in order to compute an efficient logarithm, we need to have a probability distribution that sums up to 1.
+Because thecross entropy loss takes the *logatithm of the probability*. So in order to compute an efficient logarithm, we need to have *a probability distribution that sums up to 1*.
