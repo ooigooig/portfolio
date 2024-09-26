@@ -1,10 +1,10 @@
 ---
 layout: post
 title: MySQL Triggers Syntax
-date: 2024-06-16 16:40:16
+date: 2024-09-25 16:40:16
 description: 
-tags: Google
-categories: activity
+tags: MySQL
+categories: Q&A
 ---
 
 
