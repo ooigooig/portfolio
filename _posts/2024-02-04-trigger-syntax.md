@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL Triggers Syntax
+title: MySQL Syntax
 date: 2024-09-25 16:40:16
 description: 
 tags: Q&A
