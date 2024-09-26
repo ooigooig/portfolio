@@ -40,3 +40,8 @@ This project focuses on using **Azure Data Factory (ADF)** to manage and process
 <div class="caption">
     Azure interface: all resources
 </div>
+
+
+Unfortunately, I cannot create the Azure HDInsight cluster with the Student subscription. :(
+
+[Reason: With an Azure Student subscription, you will initially be able to access only Azure services that are available with a free tier of service use.](https://learn.microsoft.com/en-us/answers/questions/179055/can-i-use-a-student-subscription-in-azure-to-creat)
