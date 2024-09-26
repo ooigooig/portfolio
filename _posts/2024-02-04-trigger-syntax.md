@@ -9,7 +9,7 @@ giscus_comments: true
 ---
 
 
-<mark>**CREATE TABLE W/ CODE**</mark>
+**<mark>CREATE TABLE W/ CODE</mark>**
 
 ```sql
 USE myfirstcodeschema;
@@ -22,7 +22,7 @@ CREATE TABLE myfirstcodetable (
 );
 ```
 
-<mark>**INSERTING NEW RECORDS**</mark>
+**<mark>INSERTING NEW RECORDS</mark>**
 
 ```sql
 USE thriftshop;
@@ -48,7 +48,7 @@ DELETE FROM inventory
 WHERE inventory_id = 7
 ```
 
-<mark>**IMPORT DATA FROM A FILE**</mark>
+**<mark>IMPORT DATA FROM A FILE</mark>**
 
 ```sql
 CREATE SCHEMA survey;
@@ -65,7 +65,7 @@ CREATE TABLE salary_survey (
     );
 ```
 
-<mark>**ALTER TABLE W/ CODE**</mark>
+**<mark>ALTER TABLE W/ CODE</mark>**
 
 ```sql
 SELECT * FROM customer_purchases;
