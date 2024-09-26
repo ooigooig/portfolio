@@ -72,3 +72,33 @@ Variables are internal values set inside a pipeline. The value can be changed in
 </div>
 
 If we want to ingest http/url in the json file, we need to set them in the variables.
+
+
+2. <mark>website column name changed</mark>
+  
+The data of the website keeps updating and the column and row change every day, I did the project in 2022, but now the ingested files column names are changed.
+
+3. wrong name reulted in null data
+  
+
+I am confused that why the confirmed cases column is null with all rows...But I found that I did something really silly: co~~m~~nfirmed
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed1.png" title="wrong_confirmed1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed2.png" title="wrong_confirmed2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Finally!!
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed3.png" title="wrong_confirmed3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
