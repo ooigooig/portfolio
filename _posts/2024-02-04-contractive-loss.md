@@ -5,6 +5,7 @@ date: 2024-09-25 16:40:16
 description: 
 tags: Q&A
 categories: neural networks
+giscus_comments: true
 ---
 
 - Contrastive Loss is a distance-based Loss function (as opposed to **prediction error-based** losses like cross entropy) used to learn discriminative features for images.

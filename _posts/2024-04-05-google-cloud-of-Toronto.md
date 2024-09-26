@@ -5,6 +5,7 @@ date: 2024-06-16 16:40:16
 description: 
 tags: activity
 categories: Goodle cloud of Toronto
+giscus_comments: true
 ---
 
 Joined and be an event volunteer in the conference of Goodle cloud of Toronto. 

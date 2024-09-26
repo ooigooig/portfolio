@@ -5,6 +5,7 @@ date: 2024-09-25 16:40:16
 description: 
 tags: Q&A
 categories: MySQL
+giscus_comments: true
 ---
 
 ```sql
