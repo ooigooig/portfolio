@@ -7,13 +7,15 @@ tags: MySQL
 categories: Q&A
 ---
 
-Hello,testing.
 
-```sql
 CREATE TRIGGER trigger_name
+
 {BEFORE|AFTER}{INSERT|UPDATE|DELETE}
+
 ON table_name FOR EACH ROW
+
 {{FOLLOW|PRECEDES} existing_trigger_name}
+
 [[some statement we want to execute by trigger]]
+
 {WHERE column_name ={OLD|NEW}.column_name}
-```
