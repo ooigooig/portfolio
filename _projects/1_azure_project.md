@@ -56,3 +56,19 @@ Unfortunately, I cannot create the Azure HDInsight cluster with the Student subs
 <div class="caption">
     Data Flow
 </div>
+
+
+**<mark>Some problem when I was doing this project:</mark>**
+1. <mark>Parameters & Variables</mark>
+  
+
+Parameters are external values passed into pipelines, datasets or linked services. The value cannot be changed inside a pipeline.
+Variables are internal values set inside a pipeline. The value can be changed inside the pipeline using Set Variable or Append Variable Activity.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/parameter.png" title="parameter" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+If we want to ingest http/url in the json file, we need to set them in the variables.
