@@ -7,7 +7,7 @@ tags: MySQL
 categories: Q&A
 ---
 
-
+Hello,testing.
 
 ```sql
 CREATE TRIGGER trigger_name
