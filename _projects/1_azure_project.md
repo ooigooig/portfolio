@@ -46,7 +46,9 @@ Unfortunately, I cannot create the Azure HDInsight cluster with the Student subs
 
 [Reason: With an Azure Student subscription, you will initially be able to access only Azure services that are available with a free tier of service use.](https://learn.microsoft.com/en-us/answers/questions/179055/can-i-use-a-student-subscription-in-azure-to-creat)
 
+**<mark>Data Flow</mark>**
 
+The first data flow(transform hospital admissions) focused on aggregating hospital admissions data, conditionally splitting it into weekly and daily data streams, applying transformations such as pivoting and sorting, and exporting the processed data into destination sinks.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,9 +56,19 @@ Unfortunately, I cannot create the Azure HDInsight cluster with the Student subs
     </div>
 </div>
 <div class="caption">
-    Data Flow
+    Data Flow: transform hospital admissions
 </div>
 
+The second data flow(transform cases deaths) filtered case and death data specifically for Europe, performed lookups to enrich country-level information, and aggregated the data before exporting it to the final dataset. Key components included pivot transformations, conditional splitting, lookups, and sorting, which ensured efficient data organization and readiness for reporting and analysis.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/data_flow2.png" title="data_flow2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Data Flow: transform cases deaths
+</div>
 
 **<mark>Some problem when I was doing this project:</mark>**
 1. <mark>Parameters & Variables</mark>
