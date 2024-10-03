@@ -96,7 +96,7 @@ I am confused that why the confirmed cases column is null with all rows...But I 
 
 Finally!!
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed3.png" title="wrong_confirmed3" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -110,7 +110,7 @@ Unfortunately, I cannot create the Azure HDInsight cluster with the Student subs
 
 5. unable to have permission for access tokens to access the databricks REST API
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/azure/databricks.png" title="databricks" class="img-fluid rounded z-depth-1" %}
     </div>
