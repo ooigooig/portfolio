@@ -8,29 +8,20 @@ giscus_comments: true
 
 ---
 
-
-**<mark>Framework of this project </mark>**
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/azure/framework.png" title="framework" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    framework
-</div>
-
-**<mark>Architecture of this project </mark>**
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/azure/architecture.png" title="architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    architecture
-</div>
-
 This project focuses on using **Azure Data Factory (ADF)** to manage and process COVID-19 data. As you can see in this screenshot of the Azure interface, there are several components: **ADF, Azure SQL database, Azure Databricks, Log Analytics Workspace, etc**. These resources align with a **data pipeline architecture**, combining ADF for ETL, SQL for structured storage, and Databricks for analytics.
+
+**<mark>Framework/Architecture of this project </mark>**
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/azure/framework.png" title="framework" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/azure/architecture.png" title="architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
