@@ -105,19 +105,6 @@ I am confused that why the confirmed cases column is null with all rows...But I 
     </div>
 </div>
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed1.png" title="wrong_confirmed1" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed2.png" title="wrong_confirmed2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 Finally!!
 
 <div class="row">
