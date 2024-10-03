@@ -42,9 +42,7 @@ This project focuses on using **Azure Data Factory (ADF)** to manage and process
 </div>
 
 
-Unfortunately, I cannot create the Azure HDInsight cluster with the Student subscription. :(
 
-[Reason: With an Azure Student subscription, you will initially be able to access only Azure services that are available with a free tier of service use.](https://learn.microsoft.com/en-us/answers/questions/179055/can-i-use-a-student-subscription-in-azure-to-creat)
 
 **<mark>Data Flow</mark>**
 
@@ -110,5 +108,19 @@ Finally!!
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/azure/wrong_confirmed3.png" title="wrong_confirmed3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+4. unable to access Azure HDInsight
+
+Unfortunately, I cannot create the Azure HDInsight cluster with the Student subscription. :(
+
+[Reason: With an Azure Student subscription, you will initially be able to access only Azure services that are available with a free tier of service use.](https://learn.microsoft.com/en-us/answers/questions/179055/can-i-use-a-student-subscription-in-azure-to-creat)
+
+5. unable to have permission for access tokens to access the databricks REST API
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/databricks.png" title="databricks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
