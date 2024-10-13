@@ -75,11 +75,11 @@ Variables are internal values set inside a pipeline. The value can be changed in
 
 If we want to ingest http/url in the json file, we need to set them in the variables.
 
-- <mark>website column name changed</mark>
+- <mark>**website column name changed**</mark>
 
 The data of the website keeps updating and the column and row change every day, I did the project in 2022, but now the ingested files column names are changed.
 
-- wrong name reulted in null data
+- **<mark>wrong name reulted in null data</mark>**
 
 I am confused that why the confirmed cases column is null with all rows...But I found that I did something really silly: co~~m~~nfirmed
 
@@ -111,13 +111,13 @@ Finally!!
 
 </div>
 
-- unable to access Azure HDInsight
+- **<mark>unable to access Azure HDInsight</mark>**
 
 Unfortunately, I cannot create the Azure HDInsight cluster with the Student subscription. :(
 
 [Reason: With an Azure Student subscription, you will initially be able to access only Azure services that are available with a free tier of service use.](https://learn.microsoft.com/en-us/answers/questions/179055/can-i-use-a-student-subscription-in-azure-to-creat)
 
-- unable to have permission for access tokens to access the databricks REST API
+- **<mark>unable to have permission for access tokens to access the databricks RESTAPI</mark>**
 
 <div class="row justify-content-sm-center">
 
