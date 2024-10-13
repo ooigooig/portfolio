@@ -57,7 +57,7 @@ The second data flow(transform cases deaths) filtered case and death data specif
 
 **<mark>Some problem when I was doing this project:</mark>**
 
-- <mark>Parameters & Variables</mark>
+- **<mark>Parameters & Variables</mark>**
 
 Parameters are external values passed into pipelines, datasets or linked services. The value cannot be changed inside a pipeline.
 
@@ -75,7 +75,7 @@ Variables are internal values set inside a pipeline. The value can be changed in
 
 If we want to ingest http/url in the json file, we need to set them in the variables.
 
-- <mark>**website column name changed**</mark>
+- **<mark>website column name changed</mark>**
 
 The data of the website keeps updating and the column and row change every day, I did the project in 2022, but now the ingested files column names are changed.
 
