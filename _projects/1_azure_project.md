@@ -55,6 +55,32 @@ The second data flow(transform cases deaths) filtered case and death data specif
     Data Flow: transform cases deaths
 </div>
 
+**<mark>Linked Services</mark>**
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/linked_services.png" title="linked_services" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+**<mark>Trigger</mark>**
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/trigger.png" title="trigger" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    trigger
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/azure/trigger_dependency.png" title="trigger_dependency" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    trigger dependency
+</div>
+
 **<mark>Some problem when I was doing this project:</mark>**
 
 - **<mark>Parameters & Variables</mark>**
@@ -79,7 +105,7 @@ If we want to ingest http/url in the json file, we need to set them in the varia
 
 The data of the website keeps updating and the column and row change every day, I did the project in 2022, but now the ingested files column names are changed.
 
-- **<mark>wrong name reulted in null data</mark>**
+- **<mark>wrong name resulted in null data</mark>**
 
 I am confused that why the confirmed cases column is null with all rows...But I found that I did something really silly: co~~m~~nfirmed
 
