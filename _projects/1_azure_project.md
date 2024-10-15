@@ -81,7 +81,7 @@ The second data flow(transform cases deaths) filtered case and death data specif
     trigger dependency
 </div>
 
-**<mark>Copy data from data lake to MS SQL</mark>**
+**<mark>Copy processed data from data lake to MS SQL:</mark>**
 
 <div class="row justify-content-sm-center">
 
@@ -90,13 +90,17 @@ The second data flow(transform cases deaths) filtered case and death data specif
         {% include figure.liquid path="assets/img/azure/move_sql_source.png" title="move_sql_source" class="img-fluid rounded z-depth-1" %}
 
     </div>
-
+    <div class="caption">
+    move_sql:source page
+    </div>
     <div class="col-sm-5 mt-3 mt-md-0">
 
         {% include figure.liquid path="assets/img/azure/move_sql_sink.png" title="move_sql_sink" class="img-fluid rounded z-depth-1" %}
 
     </div>
-
+    <div class="caption">
+    move_sql:sink page
+    </div>
 </div>
 
 once I process my data in a **data lake** and move it into a structured format in SQL for further analysis, reporting, and querying, it effectively becomes part of a **data warehouse**.
