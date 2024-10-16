@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploring the situation of employee retention:Unsupervised Learning and Recommender
+title: Enhancing Employee Retention:Unsupervised Learning for Segmentation and Personalized Strategies
 description: My task is to use unsupervised learning techniques to define employee segments and make recommendations to increase retention within each one
 img: assets/img/ETL_database/homepage.png
 importance: 5
