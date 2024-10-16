@@ -95,7 +95,7 @@ The second data flow(transform cases deaths) filtered case and death data specif
 
         {% include figure.liquid path="assets/img/azure/move_sql_sink.png" title="move_sql_sink" class="img-fluid rounded z-depth-1" %}
 
-
+    </div>
 </div>
 
 once I process my data in a **data lake** and move it into a structured format in SQL for further analysis, reporting, and querying, it effectively becomes part of a **data warehouse**.
