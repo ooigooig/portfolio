@@ -24,4 +24,4 @@ I obtained my Bachelor's degree in Robotics Engineering and Automation at the [G
 
 After graduating, I worked at [ZMROBO](https://www.zmrobo.com/) as a [ROS](https://www.ros.org/) software engineer, designing multiple sets of AI robots and developing courses for schools based on the company's robotic products.
 
-In my free time, I enjoy playing frisbee, reading, listening to Rap and Rock music and exploring new things.
+In my free time, I enjoy jogging, playing frisbee, reading, listening to Rap and Rock music and exploring new things.
