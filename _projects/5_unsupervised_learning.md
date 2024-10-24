@@ -35,6 +35,37 @@ My code solution is here, I followed the workflow step to finish the project, an
     CSV dataset
 </div>
 
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/unsupervised_learning/cluster_with_department.png" title="cluster_with_department" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+<div class="caption">
+    cluster with department column, apparently department features dominate the visualization.
+</div>
+
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/unsupervised_learning/cluster_without_department.png" title="cluster_without_department" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+<div class="caption">
+    cluster without department column.
+</div>
+
+
+
+
 <div class="row justify-content-sm-center">
 
     <div class="col-sm-8 mt-3 mt-md-0">
