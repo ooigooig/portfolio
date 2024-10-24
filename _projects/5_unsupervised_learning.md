@@ -9,10 +9,17 @@ giscus_comments: true
 ---
 In this project, I explored HR data in a company using unsupervised learning. Unsupervised learning, finding the patterns or relationships in data, can enhance my understanding of underlying structures within the data without predefined labels or categories. By applying unsupervised learning techniques in HR data, such as clustering or dimensionality reduction, I can gain valuable insights about Employee Retention.
 
-Exploratory data analysis (EDA) is all about exploring and understanding the data I am working with before applying models or algorithms.
-Before I applied the unsupervised learning, I should In the dataset, For instance, in the HR context, unsupervised learning can help identify distinct groups of employees based on their **EmployeeID, Age, Gender, DistanceFromHome, JobLevel, Department, MonthlyIncome, PerformanceRating, JobSatisfaction, Attrition** with EDA 
+In business perspective, I should start with a clearly difined scope: **Who are my end users or stakeholders? What businsess problems am I trying to help them solve? Is this a supervised or unsupervised learning problem? What data do I need for my analysis?**
 
+After knowing these answers of the questions, I need to explore the data first, namely, EDA. Exploratory data analysis (EDA) is all about exploring and understanding the 
+data I am working with before applying models or algorithms.
 
+A popular saying within data science is “garbage in, garbage out”, which means that cleaning data properly is key to producing accurate and reliable results.
+
+In general, the unsupervised learning workflow is: **Scoping the project, Gathering data,Cleaning data,Exploring data,Modeling data,Sharing Insights.**
+
+My code solution is here, I followed the workflow step to finish the project, and applied clusters and dimensionality reduction in the project.
+[**[Code]**](assets/html/unsupervised_learning_project-Huaye.html)
 
 
 <div class="row justify-content-sm-center">
@@ -24,6 +31,7 @@ Before I applied the unsupervised learning, I should In the dataset, For instanc
     </div>
 
 </div>
+<div class="caption">
+    CSV dataset
+</div>
 
-
-Moreover, dimensionality reduction techniques like Principal Component Analysis (PCA) can simplify the data, making it easier to visualize and understand without losing significant information.
