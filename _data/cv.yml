@@ -47,7 +47,7 @@
         - "Data analysis on business marketing of educational robots"
 
 - title: Skills
-  type: nested_list
+  type: list_groups
   contents:
     - <u>Python</u> Numpy, Pandas, Scikit-learn.
     - <u>SQL</u> MySQL, Postgres.
