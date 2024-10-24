@@ -19,7 +19,7 @@ A popular saying within data science is “garbage in, garbage out”, which mea
 In general, the unsupervised learning workflow is: **Scoping the project, Gathering data,Cleaning data,Exploring data,Modeling data,Sharing Insights.**
 
 My code solution is here, I followed the workflow step to finish the project, and applied clusters and dimensionality reduction in the project.
-[**[Code]**](assets/html/unsupervised_learning_project-Huaye.html)
+[**[Code]**](https://howardzhan2024.top/assets/html/unsupervised_learning_project-Huaye.html)
 
 
 <div class="row justify-content-sm-center">
@@ -27,6 +27,19 @@ My code solution is here, I followed the workflow step to finish the project, an
     <div class="col-sm-8 mt-3 mt-md-0">
 
         {% include figure.liquid loading="eager" path="assets/img/unsupervised_learning/excel.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+<div class="caption">
+    CSV dataset
+</div>
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/unsupervised_learning/homepage.png" title="3d" class="img-fluid rounded z-depth-1" %}
 
     </div>
 
