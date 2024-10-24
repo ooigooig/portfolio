@@ -51,7 +51,7 @@
   contents:
     - Proficiency with <b>Python, SQL,</b> and utilizing SQL in data solutions.
     - Proficiency in DevOps practices and tools:<b>CI/CD pipelines, GitLab</b>.
-    - Experience with cloud computing services <b>(Microsoft Azure and AWS) and ADF(Azure data fatory) and ADB(Azure Databricks).</b>
+    - Experience with cloud computing services:<b>(Microsoft Azure:ADF, Azure Databricks) and (AWS:EMR, Athena).</b>
     - Familiarity with deploying ML models:<b>Regression, Times Series Forecasting, NLP, Classification, Clustering, Dimensionality reduction, etc.</b>
     - Experience with popular machine learning frameworks:<b>TensorFlow, PyTorch, Scikit-Learn.</b>
     - <u>Times Series Forecasting</u>
