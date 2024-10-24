@@ -45,6 +45,6 @@ My code solution is here, I followed the workflow step to finish the project, an
 
 </div>
 <div class="caption">
-    CSV dataset
+    PCA with 3 components in 3D plot
 </div>
 
