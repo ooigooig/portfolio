@@ -49,11 +49,11 @@
 - title: Skills
   type: list
   contents:
-    - <u>Python</u> Numpy, Pandas, Scikit-learn.
-    - <u>SQL</u> MySQL, Postgres.
-    - <u>Machine Learning:</u> Supervised Learning, Unsupervised Learning.
-    - <u>Cloud</u> AWS, Asure.
-    - <u>NLP</u>
+    - Proficiency with Python, SQL, and utilizing SQL in data solutions.
+    - Proficiency in DevOps practices and tools:CI/CD pipelines, GitLab.
+    - Experience with cloud computing services (Microsoft Azure and AWS).
+    - Familiarity with deploying ML models.
+    - Experience with popular machine learning frameworks:TensorFlow, PyTorch, Scikit-Learn.
     - <u>Times Series Forecasting</u>
     - <u>Tableau</u>
     - <u>Power BI</u>
