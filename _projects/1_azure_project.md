@@ -17,7 +17,6 @@ giscus_comments: true
     Azure interface: all resources
 </div>
 
-
 This project focuses on using **Azure Data Factory (ADF)** to manage and process COVID-19 data. As you can see in this screenshot of the Azure interface, there are several components: **ADF, Azure SQL database, Azure Databricks, Log Analytics Workspace, etc**. These resources align with a **data pipeline architecture**, combining ADF for ETL, SQL for structured storage, and Databricks for analytics.
 
 **<mark>Framework/Architecture of this project </mark>**
