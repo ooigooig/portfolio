@@ -1,7 +1,7 @@
 ---
 layout: post
 title: gitlab CI/CD notes
-date: 2024-10-31 16:40:16
+date: 2024-06-31 16:40:16
 description: 
 tags: CI/CD
 categories: note
