@@ -4,7 +4,7 @@ title: gitlab CI/CD notes
 date: 2024-10-31 16:40:16
 description: 
 tags: CI/CD
-categories: CI/CD
+categories: note
 giscus_comments: true
 ---
 
