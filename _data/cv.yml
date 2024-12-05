@@ -50,11 +50,10 @@
   type: list
   contents:
     - Proficiency with <b>Python, SQL,</b> and utilizing SQL in data solutions.
-    - Proficiency in DevOps practices and tools:<b>CI/CD pipelines, GitLab</b>.
-    - Experience with cloud computing services:<b>(Microsoft Azure:ADF, Azure Databricks) and (AWS:EMR, Athena).</b>
+    - Proficiency in DevOps practices and tools:<b>CI/CD pipelines</b>.
+    - Experience with cloud computing services:<b>(Microsoft Azure:ADF, Azure Databricks).</b>
     - Familiarity with deploying ML models:<b>Regression, Times Series Forecasting, NLP, Classification, Clustering, Dimensionality reduction, etc.</b>
     - Experience with popular machine learning frameworks:<b>TensorFlow, PyTorch, Scikit-Learn.</b>
-    - Familiarity with <b>Pyspark, Airflow, Hadoop.</b>
+    - Familiarity with <b>Pyspark.</b>
     - Experience with Data visualization tools:<b>Power BI and Tableau.</b>
-    - Experience with <b>Microsoft SSRS and SSIS.</b>
 
