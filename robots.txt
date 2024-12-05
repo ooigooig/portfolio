@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://howardzhan2024.top//sitemap.xml
+Sitemap: https://howardzhan2024.top/sitemap.xml
