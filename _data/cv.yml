@@ -21,13 +21,6 @@
       year: 2024 - 2025
       description:
         - "Data Scientist and Machine Learning Engineer"
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - title: Bachelor degree in Mechanical Engineering, Robotics and Automation
       institution: Guangdong University of Technology, Guangzhou, China
       year: 2015 - 2019
@@ -46,9 +39,19 @@
         - "Design Curriculum of ROS"
         - "Data analysis on business marketing of educational robots"
 
+- title: Key Areas of Expertise
+  type: list
+  contents:
+    - 7+ years of experience in <b>Linux environments</b>.
+    - 5+ years of expertise in <b>ROS software development</b>.
+    - 3+ years of experience in <b>Machine Learning and Cloud Data solutions</b>.
+    - 1+ years of hands-on experience with <b>Generative AI</b>.
+
+
 - title: Skills
   type: list
   contents:
+    - Experience:7+ years Linux environment, 5+ years ROS software, 3+ years Machine learning + Cloud Data, 1+ years Gen AI.
     - Proficiency with <b>Python, SQL,</b> and utilizing SQL in data solutions.
     - Proficiency in DevOps practices and tools:<b>CI/CD pipelines</b>.
     - Experience with cloud computing services:<b>(Microsoft Azure:ADF, Azure Databricks).</b>

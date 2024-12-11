@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL Syntax note
+title: MySQL Syntax
 date: 2024-09-25 16:40:16
 description: 
 tags: MySQL
