@@ -52,10 +52,10 @@
   type: list
   contents:
     - Proficiency with <b>Python, SQL,</b> and utilizing SQL in data solutions.
-    - Proficiency in DevOps practices and tools:<b>CI/CD pipelines</b>.
+    - Familiarity with <b>MLOps practices, version control, and CI/CD pipelines</b> for machine learning.
     - Experience with cloud computing services:<b>(Microsoft Azure:ADF, Azure Databricks).</b>
     - Familiarity with deploying ML models:<b>Regression, Times Series Forecasting, NLP, Classification, Clustering, Dimensionality reduction, etc.</b>
-    - Experience with popular machine learning frameworks:<b>TensorFlow, PyTorch, Scikit-Learn.</b>
-    - Familiarity with Data processing in <b>Pyspark.</b>
-    - Experience with Data visualization tools:<b>Power BI and Tableau.</b>
-
+    - Experience with popular ML/DL frameworks:<b>TensorFlow, PyTorch, Scikit-Learn.</b>
+    - Familiarity with scalable distributed computing frameworks:<b>Pyspark.</b>
+    - Experience with Data visualization tools:<b>Power BI.</b>
+    - Strong problem-solving skills and the ability to work on complex projects independently or collaboratively.
