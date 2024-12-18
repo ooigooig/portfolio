@@ -3,7 +3,7 @@ layout: page
 title: Sentiment Analysis on Movie Reviews:A predictive model with pre-trained Bert by PyTorch
 description: 
 img: assets/img/nn_project/homepage.png
-importance: 8
+importance: 1
 
 giscus_comments: true
 ---
