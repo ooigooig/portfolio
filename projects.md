@@ -1,9 +1,9 @@
 <!-- ---
 layout: page
-title: SSIS
+title: AWS machine learning
 description: 
-img: assets/img/ssis/homepage.png
-importance: 9
+img: assets/img/aws_ml/homepage.png
+importance: 13
 
 giscus_comments: true
 --- -->
