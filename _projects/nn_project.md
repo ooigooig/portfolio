@@ -16,7 +16,7 @@ In this project,
 
 <div class="row justify-content-sm-center">
 
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
 
         {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_api.png" title="excel" class="img-fluid rounded z-depth-1" %}
 
@@ -30,7 +30,7 @@ In this project,
 
 <div class="row justify-content-sm-center">
 
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
 
         {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_setup.png" title="excel" class="img-fluid rounded z-depth-1" %}
 
@@ -43,7 +43,7 @@ In this project,
 
 <div class="row justify-content-sm-center">
 
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
 
         {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_code.png" title="excel" class="img-fluid rounded z-depth-1" %}
 
@@ -80,7 +80,7 @@ Training the pre-trained BERT model from scratch would involve randomly initiali
 
 <div class="row justify-content-sm-center">
 
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
 
         {% include figure.liquid loading="eager" path="assets/img/nn_project/tl_ppt.png" title="excel" class="img-fluid rounded z-depth-1" %}
 
