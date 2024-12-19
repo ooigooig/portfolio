@@ -93,10 +93,20 @@ Training the pre-trained BERT model from scratch would involve randomly initiali
 In conclusion, the demo performs well, but the accuracy is approximately 70%. There is room for improvement in the model.
 
 1. Train more epochs to observe the result.✅
-  
 
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/more_epoch.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
 Result: Overfitting😂
 
 Reason: I fine-tune the entire model, include pre-trained model.
 
 How to improve: I should fine-tune a few layers of the pre-trained model first, and see the result.
+
+more_epoch
