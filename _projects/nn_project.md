@@ -96,7 +96,7 @@ In conclusion, the demo performs well, but the accuracy is approximately 70%. Th
 
 <div class="row justify-content-sm-center">
 
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
 
         {% include figure.liquid loading="eager" path="assets/img/nn_project/more_epoch.png" title="excel" class="img-fluid rounded z-depth-1" %}
 
