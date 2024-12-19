@@ -77,3 +77,13 @@ When I fine-tune the entire model, I am still leveraging the pre-trained weights
 Training the pre-trained BERT model from scratch would involve randomly initializing all the model parameters and training the entire model on a large, general-purpose dataset (like the dataset used to originally pre-train BERT) to learn the base language representations.
 
 <u>The key lies in either <strong>initializing</strong> or <strong>optimizing</strong> model parameters. I don't need to train <strong>pre</strong>-trained model since it is already trained.</u>
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/tl_ppt.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
