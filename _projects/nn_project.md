@@ -108,5 +108,3 @@ Result: Overfitting😂
 Reason: I fine-tune the entire model, include pre-trained model.
 
 How to improve: I should fine-tune a few layers of the pre-trained model first, and see the result.
-
-more_epoch
