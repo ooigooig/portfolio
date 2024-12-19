@@ -76,7 +76,7 @@ When I fine-tune the entire model, I am still leveraging the pre-trained weights
 
 Training the pre-trained BERT model from scratch would involve randomly initializing all the model parameters and training the entire model on a large, general-purpose dataset (like the dataset used to originally pre-train BERT) to learn the base language representations.
 
-<u>The key lies in either <strong>initializing</strong> or <strong>optimizing</strong> model parameters. I don't need to train <strong>pre</strong>-trained model since it is already trained.</u>
+💡<u>The key lies in either <strong>initializing</strong> or <strong>optimizing</strong> model parameters. I don't need to train <strong>pre</strong>-trained model since it is already trained.</u>
 
 <div class="row justify-content-sm-center">
 
@@ -108,3 +108,25 @@ Result: Overfitting😂
 Reason: I fine-tune the entire model, include pre-trained model.
 
 How to improve: I should fine-tune a few layers of the pre-trained model first, and see the result.
+
+2. Model comparison: compared with other pre-training models.🕚
+
+There are many other bert or pre-trained models used for text classification in huggingface platform.
+
+3. Data binning and Data processing: bin 0 into 1, bin 3 into 4, to make the data less imbalanced in preprocessing data.🕥
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-7 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/data_bining.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+
+For example, we can bin the 8 clarity values into just 3 distinct buckets( In this project, I bin 0 and 1 into negative, 3 and 4 into positive.)
+
+As we know well, Adding dummy variables(aka. one-hot encoder) is a technique as well.
+
+💡**In my opinion, adding dummy variables for each categorical column can lead to wide data sets and increase model variance; binning can solve this and improve interpretability.**
