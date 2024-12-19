@@ -10,8 +10,6 @@ giscus_comments: true
 
 [[Code]](https://howardzhan2024.top/assets/html/sentiment_analysis_pt_Huaye-final.html) [[PPT]](https://howardzhan2024.top/assets/pdf/neural_networks_pytorch_Huaye.pdf) [[Demo]](https://howardzhan2024.top/assets/video/sentiment_analysis_demo.mp4)
 
-
-
 In this project,
 
 **Kaggle API**
@@ -33,3 +31,10 @@ Fine-tuning is a Fine-tuning is a transfer learning technique where I take a pre
 2. *how can I fine-tuning the pre-trained model without training it?*
   
 3. *If I fine-tune the entire model, is it still different from training the pre-trained model from scratch?*
+  
+
+When I fine-tune the entire model, I am still leveraging the pre-trained weights and representations from the original BERT model. The key difference is that I am allowing those pre-trained layers to be updated during the fine-tuning process, rather than keeping them completely frozen.
+
+Training the pre-trained BERT model from scratch would involve randomly initializing all the model parameters and training the entire model on a large, general-purpose dataset (like the dataset used to originally pre-train BERT) to learn the base language representations.
+
+<u>The key lies in either <strong>initializing</strong> or <strong>optimizing</strong> model parameters. I don't need to train <strong>pre</strong>-trained model since it is already trained.</u>
