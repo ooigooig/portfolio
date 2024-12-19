@@ -92,7 +92,7 @@ Training the pre-trained BERT model from scratch would involve randomly initiali
 
 In conclusion, the demo performs well, but the accuracy is approximately 70%. There is room for improvement in the model.
 
-1. Train more epochs to observe the result.✅
+1.Train more epochs to observe the result.✅
 
 <div class="row justify-content-sm-center">
 
@@ -109,11 +109,11 @@ Reason: I fine-tune the entire model, include pre-trained model.
 
 How to improve: I should fine-tune a few layers of the pre-trained model first, and see the result.
 
-2. Model comparison: compared with other pre-training models.🕚
+2.Model comparison: compared with other pre-training models.🕚
 
 There are many other bert or pre-trained models used for text classification in huggingface platform.
 
-3. Data binning and Data processing: bin 0 into 1, bin 3 into 4, to make the data less imbalanced in preprocessing data.🕥
+3.Data binning and Data processing: bin 0 into 1, bin 3 into 4, to make the data less imbalanced in preprocessing data.🕥
 
 <div class="row justify-content-sm-center">
 
