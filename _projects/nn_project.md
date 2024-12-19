@@ -14,7 +14,46 @@ In this project,
 
 **Kaggle API**
 
-I need to set up the configuration in my desktop.
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_api.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+<div class="caption">
+    clicking create new token, and downloading the configuration file.
+</div>
+
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_setup.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+<div class="caption">
+    I need to set up the configuration in my desktop.
+</div>
+
+<div class="row justify-content-sm-center">
+
+    <div class="col-sm-8 mt-3 mt-md-0">
+
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_code.png" title="excel" class="img-fluid rounded z-depth-1" %}
+
+    </div>
+
+</div>
+<div class="caption">
+    Finally, I can fetch dataset in Kaggle through kaggle api.
+</div>
+
 
 **Transfer learning and fine tuning**
 
