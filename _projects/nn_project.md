@@ -10,7 +10,7 @@ giscus_comments: true
 
 [[Code]](https://howardzhan2024.top/assets/html/sentiment_analysis_pt_Huaye-final.html) [[PPT]](https://howardzhan2024.top/assets/pdf/neural_networks_pytorch_Huaye.pdf) [[Demo]](https://howardzhan2024.top/assets/video/sentiment_analysis_demo.mp4)
 
-In this project,
+In this project, I explored sentiment analysis on movie reviews using a predictive model powered by a pre-trained BERT model implemented with PyTorch. BERT’s ability to understand context makes it perfect for analyzing and predicting sentiment in movie reviews.
 
 **Kaggle API**
 
