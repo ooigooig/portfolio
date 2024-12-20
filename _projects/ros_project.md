@@ -112,7 +112,23 @@ In this project, the content is organized into five main sections: ROS basics an
     AR code is implemented in the Rviz environment.
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ros/pc_init.png" title="pc_init" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    pointcloud init
+</div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ros/point_cloud.png" title="point_cloud" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    point cloud display
+</div>
 
 **deep learning and voice control**
 
