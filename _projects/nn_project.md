@@ -15,40 +15,27 @@ In this project, I explored sentiment analysis on movie reviews using a predicti
 **Kaggle API**
 
 <div class="row justify-content-sm-center">
-
     <div class="col-sm mt-3 mt-md-0">
-
         {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_api.png" title="excel" class="img-fluid rounded z-depth-1" %}
-
     </div>
-
 </div>
 <div class="caption">
     clicking create new token, and downloading the configuration file.
 </div>
 
-
 <div class="row justify-content-sm-center">
-
     <div class="col-sm mt-3 mt-md-0">
-
         {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_setup.png" title="excel" class="img-fluid rounded z-depth-1" %}
-
     </div>
-
 </div>
 <div class="caption">
     I need to set up the configuration in my desktop.
 </div>
 
 <div class="row justify-content-sm-center">
-
     <div class="col-sm mt-3 mt-md-0">
-
         {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_code.png" title="excel" class="img-fluid rounded z-depth-1" %}
-
     </div>
-
 </div>
 <div class="caption">
     Finally, I can fetch dataset in Kaggle through kaggle api.
@@ -79,13 +66,9 @@ Training the pre-trained BERT model from scratch would involve randomly initiali
 💡<u>The key lies in either <strong>initializing</strong> or <strong>optimizing</strong> model parameters. I don't need to train <strong>pre</strong>-trained model since it is already trained.</u>
 
 <div class="row justify-content-sm-center">
-
     <div class="col-sm mt-3 mt-md-0">
-
         {% include figure.liquid loading="eager" path="assets/img/nn_project/tl_ppt.png" title="excel" class="img-fluid rounded z-depth-1" %}
-
     </div>
-
 </div>
 
 **Conclusion**
@@ -95,14 +78,11 @@ In conclusion, the demo performs well, but the accuracy is approximately 70%. Th
 1.Train more epochs to observe the result.✅
 
 <div class="row justify-content-sm-center">
-
     <div class="col-sm-6 mt-3 mt-md-0">
-
         {% include figure.liquid loading="eager" path="assets/img/nn_project/more_epoch.png" title="excel" class="img-fluid rounded z-depth-1" %}
-
     </div>
-
 </div>
+
 Result: Overfitting😂
 
 Reason: I fine-tune the entire model, include pre-trained model.
@@ -116,13 +96,9 @@ There are many other bert or pre-trained models used for text classification in 
 3.Data binning and Data processing: bin 0 into 1, bin 3 into 4, to make the data less imbalanced in preprocessing data.🕥
 
 <div class="row justify-content-sm-center">
-
     <div class="col-sm-7 mt-3 mt-md-0">
-
         {% include figure.liquid loading="eager" path="assets/img/nn_project/data_bining.png" title="excel" class="img-fluid rounded z-depth-1" %}
-
     </div>
-
 </div>
 
 For example, we can bin the 8 clarity values into just 3 distinct buckets( In this project, I bin 0 and 1 into negative, 3 and 4 into positive.)
