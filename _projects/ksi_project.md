@@ -17,3 +17,5 @@ The main point of this project is how to deal with the data cleaning selection.
         {% include figure.liquid loading="eager" path="assets/img/ksi_toronto/data_cleaning.png" title="ksi_toronto" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+In a traffic accident, multiple individuals may be involved, each associated with different vehicles. However, how does the dataset classify an accident as fatal or non-fatal? Typically, it is categorized as fatal if at least one person dies. If we aim to build a model to predict whether an individual’s outcome is fatal or non-fatal, we need to exclude all individuals incorrectly marked as fatal. These individuals are labeled as such solely because the accident was fatal, even though they themselves did not die.
