@@ -16,7 +16,7 @@ In this project, I explored sentiment analysis on movie reviews using a predicti
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_api.png" title="excel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_api.png" title="kaggle_api" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ In this project, I explored sentiment analysis on movie reviews using a predicti
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_setup.png" title="excel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_setup.png" title="kaggle_setup" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +34,7 @@ In this project, I explored sentiment analysis on movie reviews using a predicti
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_code.png" title="excel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/kaggle_code.png" title="kaggle_code" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -97,7 +97,7 @@ There are many other bert or pre-trained models used for text classification in 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nn_project/data_bining.png" title="excel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nn_project/data_bining.png" title="data_bining" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
