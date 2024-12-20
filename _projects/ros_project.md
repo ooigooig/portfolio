@@ -54,10 +54,10 @@ In this project, the content is organized into five main sections: ROS basics an
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/azure/kcf_image.png" title="kcf_image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ros/kcf_image.png" title="kcf_image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/azure/kcf_env.png" title="kcf_env" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ros/kcf_env.png" title="kcf_env" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
