@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Covid19 data in Data Ingestion and Data Flows in ADFS
+title: Covid19 data in Data Ingestion and Data Flows in ADF
 description: 
 img: assets/img/azure/homepage.jpg
 importance: 1
