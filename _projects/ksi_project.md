@@ -13,7 +13,7 @@ giscus_comments: true
 The main point of this project is how to deal with the data cleaning selection.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ksi_toronto/data_cleaning.png" title="ksi_toronto" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
