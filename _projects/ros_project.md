@@ -52,7 +52,17 @@ In this project, the content is organized into five main sections: ROS basics an
 </div>
 
 
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/azure/kcf_image.png" title="kcf_image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/azure/kcf_env.png" title="kcf_env" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    KCF tracker is a fast and robust object tracking algorithm that uses kernelized correlation filters and the Discrete Fourier Transform to efficiently follow objects in video frames.
+</div>
 
 **Laser**
 <div class="row justify-content-sm-center">
@@ -102,33 +112,26 @@ In this project, the content is organized into five main sections: ROS basics an
     AR code is implemented in the Rviz environment.
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/azure/kcf_image.png" title="kcf_image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/azure/kcf_env.png" title="kcf_env" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 
 **deep learning and voice control**
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ros/move.png" title="excel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ros/yolo.png" title="yolo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    command to control by keyboard.
+    YOLO3 implemented in the car by depth cam.
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ros/move.png" title="excel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ros/gesture.png" title="gesture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    command to control by keyboard.
+    trained by own datasets through yolo pre-trained model.
 </div>
 
 
