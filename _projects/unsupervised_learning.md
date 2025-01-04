@@ -19,7 +19,7 @@ A popular saying within data science is “garbage in, garbage out”, which mea
 In general, the unsupervised learning workflow is: **Scoping the project, Gathering data,Cleaning data,Exploring data,Modeling data,Sharing Insights.**
 
 My code solution is here, I followed the workflow step to finish the project, and applied clusters and dimensionality reduction in the project.
-[[Code]](https://howardzhan2024.top/assets/html/unsupervised_learning_project-Huaye.html)
+[[Code]](https://howardzhan2025.top/assets/html/unsupervised_learning_project-Huaye.html)
 
 
 <div class="row justify-content-sm-center">

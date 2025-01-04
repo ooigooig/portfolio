@@ -8,7 +8,7 @@ importance: 4
 giscus_comments: true
 ---
 
-[[Code]](https://howardzhan2024.top/assets/html/group_project_Huaye-final_code.html) [[Dataset]](https://data.torontopolice.on.ca/datasets/0a1ee9d9436546dcbdc0ee9301e45e83_0/explore) [[PPT]](https://howardzhan2024.top/assets/pdf/predictive_model_with_an_app.pdf)
+[[Code]](https://howardzhan2025.top/assets/html/group_project_Huaye-final_code.html) [[Dataset]](https://data.torontopolice.on.ca/datasets/0a1ee9d9436546dcbdc0ee9301e45e83_0/explore) [[PPT]](https://howardzhan2025.top/assets/pdf/predictive_model_with_an_app.pdf)
 
 This project involves building a predictive model using the Killed or Seriously Injured (KSI) collision dataset provided by the Toronto Police Service. The goal is to predict whether an individual involved in a collision is fatal or non-fatal based on their specific information.
 
