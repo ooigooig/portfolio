@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gen AI:Summary my portfolio by OpenAI
-date: 2024-09-13 16:40:16
+date: 2025-01-01 16:40:16
 description: 
 tags: GenerativeAI
 categories: SimpleGenAIproject
