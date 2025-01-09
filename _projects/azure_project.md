@@ -2,7 +2,7 @@
 layout: page
 title: Data Ingestion and Data Flows in ADF
 description: 
-img: assets/img/azure/homepage.jpg
+img: assets/img/azure/homepage.png
 importance: 1
 giscus_comments: true
 
