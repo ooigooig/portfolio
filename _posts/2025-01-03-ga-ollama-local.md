@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gen AI:Use local ollama
-date: 2025-01-02 16:40:16
+date: 2025-01-03 16:40:16
 description: 
 tags: GenerativeAI
 categories: SimpleGenAIproject
