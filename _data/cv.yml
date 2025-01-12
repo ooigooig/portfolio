@@ -43,10 +43,10 @@
 - title: Key Areas of Expertise
   type: list
   contents:
-    - 7+ years of experience in <b>Linux environments</b>.
+    - 7+ years of experience in <b>Python, Linux environments</b>.
     - 5+ years of expertise in <b>ROS software development</b>.
     - 5+ years of experience in <b>Machine Learning and Cloud Data solutions</b>.
-    - 1+ years of hands-on experience with <b>Generative AI, LLM, Vector Database</b>.
+    - 2+ years of hands-on experience with <b>Generative AI, LLM, Vector Database, Lora/QLora, Finetuning framework.</b>
 
 
 - title: Skills
@@ -59,4 +59,5 @@
     - Experience with popular ML/DL frameworks:<b>TensorFlow, PyTorch, Scikit-Learn.</b>
     - Familiarity with scalable distributed computing frameworks:<b>Pyspark.</b>
     - Experience with Data visualization tools:<b>Power BI.</b>
+    - Proficiency with <b>fine tuning Large Language Based Model on real-world dataset with Lora/QLora</b>.
     - Strong problem-solving skills and the ability to work on complex projects independently or collaboratively.
