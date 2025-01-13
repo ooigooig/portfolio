@@ -57,7 +57,7 @@
     - Familiarity with <b>MLOps practices, version control, and CI/CD pipelines</b> for machine learning.
     - Experience with cloud computing services:<b>(Microsoft Azure:ADF, Azure Databricks).</b>
     - Familiarity with deploying ML models:<b>Regression, Times Series Forecasting, NLP, Classification, Clustering, Dimensionality reduction, etc.</b>
-    - Experience with popular ML/DL frameworks:<b>TensorFlow, PyTorch, Scikit-Learn.</b>
+    - Experience with popular ML/DL frameworks:<b>TensorFlow, PyTorch, Scikit-Learn, Huggingface.</b>
     - Familiarity with scalable distributed computing frameworks:<b>Pyspark.</b>
     - Experience with Data visualization tools:<b>Power BI.</b>
     - Proficiency with <b>Parameter-Efficient Fine-Tuning (PEFT) on real-world dataset with Lora/QLora</b>.
