@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gen AI:RAG Q&A Conversation With PDF Including Chat History
-date: 2025-01-03 16:40:16
+title: Gen AI:Chatbot with langchain, Vector database and openAI
+date: 2025-01-04 16:40:16
 description: 
 tags: GenerativeAI
 categories: SimpleGenAIproject
