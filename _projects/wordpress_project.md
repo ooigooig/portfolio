@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: AWS-based Website Building in Wordpress structure
 description: we can build a free website by free Elastic Compute Cloud (EC2).
@@ -31,4 +31,4 @@ As a blogger, it is especially important to have our own website. We only need t
 
 <div class="caption">
     we can regiser and login aws account freely.
-
+ -->
