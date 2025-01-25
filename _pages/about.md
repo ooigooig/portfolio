@@ -24,6 +24,8 @@ I obtained my Bachelor's degree in Robotics Engineering and Automation at the [G
 
 After graduating, I worked at [ZMROBO](https://www.zmrobo.com/) as a [ROS](https://www.ros.org/) software engineer, designing multiple sets of AI robots and developing courses for schools based on the company's robotic products.
 
-In the meanwhile, test!
+In the meantime, I worked on part-time projects in data science, as well as machine learning and large language models (LLMs). My responsibilities included tasks such as data preprocessing, feature engineering, model development, and fine-tuning LLMs for specific applications. 
+
+These experiences allowed me to enhance my skills in Python, SQL, and cloud platforms like AWS and Azure, while also improving my ability to handle complex datasets and implement efficient models.
 
 In my free time, I enjoy jogging, playing frisbee, reading, listening to Rap and Rock music and exploring new things.
