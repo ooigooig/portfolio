@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KSI-Related Collisions in Toronto:A predictive model with an app
+title: Prediction System of Traffic collisions in Toronto
 description: 
 img: assets/img/ksi_toronto/ksi_homepage.png
 importance: 4
