@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently seeking a Data Engineer or Machine Learning Engineer position in the Greater Toronto Area (GTA), starting around Spring/Summer 2025.
 
-I am a student in [AI-Software Engineer Technology](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College, with a primary focus on Big Data and Machine Learning. I have obtained the AWS Certified Machine Learning – Associated certification, further solidifying my expertise in cloud-based machine learning solutions.
+I am a student in [AI-Software Engineer Technology](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College, with a primary focus on Big Data and Machine Learning. I have obtained the **AWS Certified Machine Learning – Associated** certification, further solidifying my expertise in cloud-based machine learning solutions.
 
 I earned my Bachelor's degree in Robotics Engineering and Automation from [Guangdong University of Technology](https://english.gdut.edu.cn/)(2015-2019), under the supervision of Dr. [Juan Rojas](http://www.juanrojas.net/). My Bachelor’s thesis focused on **Human Pose Estimation Based on Deep Learning**.
 
